@@ -23,7 +23,7 @@ const Movie = ({item}) => {
   )
 }
 
-export default Movie
+export default Movie;
 
 
     
