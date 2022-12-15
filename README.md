@@ -12,7 +12,7 @@
 
 ## Project Description
 - This webapp is designed to create a Netflix copy and allow user to save their favorite shows.
-- Visit the website here: https://pawspower.github.io/netflix-copy/
+- Visit the website here: https://main--deluxe-chaja-f87de9.netlify.app/
 - User email: kesh@ga.com
 - User password: chicken
 
