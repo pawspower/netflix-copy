@@ -17,7 +17,7 @@
 - User password: chicken
 
 ## Screenshots
-![My image] (public/images/ss1.png)
+![](public/images/ss1.png)
 
 ## Project Status
 - Project is Complete.
